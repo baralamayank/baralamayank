@@ -12,4 +12,3 @@ I enjoy turning business questions into structured datasets, clear metrics, and 
 **Portfolio status:** I am preparing public case studies. Completed analyses and reproducible project files will be linked here as they become available.
 
 [LinkedIn](https://www.linkedin.com/in/mayankbarala/) | [Email](mailto:barala325mayank@gmail.com)
-<img width="468" height="322" alt="image" src="https://github.com/user-attachments/assets/71f39d9e-e4be-4033-8d39-73f2a9b9350a" />
