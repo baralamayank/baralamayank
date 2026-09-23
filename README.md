@@ -1,5 +1,5 @@
-# baralamayank: # Mayank Barala
-### MIS & Data Analytics | SQL ‚Ä¢ Power BI ‚Ä¢ Excel ‚Ä¢ Python
+# Mayank Barala
+### MIS & Data Analytics | SQL | Power BI | Excel | Python
 
 I am completing a B.S. in Business Administration at the University at Buffalo, concentrating in Management Information Systems and Data Analytics, with expected graduation in December 2026.
 
